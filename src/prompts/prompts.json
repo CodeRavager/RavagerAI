@@ -1,0 +1,5 @@
+[
+  { "id": "1", "title": "Blog intro — AI", "description": "Write an engaging 3-paragraph introduction for a blog post about using AI in small business marketing.", "category": "writing" },
+  { "id": "2", "title": "Product description", "description": "Create a short product description for a wireless ergonomic mouse aimed at programmers.", "category": "marketing" },
+  { "id": "3", "title": "Refactor hint", "description": "Suggest improvements to make this React component more accessible and performant.", "category": "developer" }
+]
